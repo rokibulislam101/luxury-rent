@@ -1,9 +1,8 @@
 ** Project Name: Real-State-Luxury
 *** My Project is Responsive Design
 
-[![N| Solid ()]]
+[![N| Solid (https://github.com/programming-hero-web-course-4/b9a9-real-estate-rokibulislam101)]]
 
-[![Build Status]()]
 
 ** Features--
 
