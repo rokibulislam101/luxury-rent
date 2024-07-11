@@ -1,8 +1,8 @@
 ** Project Name: Real-State-Luxury
-*** My Project is Responsive Design
+*** My Project is a Responsive Design
 
 Live Site Link- (https://assignment-nine-d2138.firebaseapp.com/).
-Github Link- (https://github.com/programming-hero-web-course-4/b9a9-real-estate-rokibulislam101).
+Github Link- (https://github.com/rokibulislam101/luxury-rent).
 
 ** Features--
 
